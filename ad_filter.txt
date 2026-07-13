@@ -1,0 +1,10 @@
+domain:chnsrv.com
+domain:chmsrv.com
+domain:optvz.com
+domain:google-analytics.com
+
+keyword:dragate
+keyword:obus-
+domain:dc.heytapmobi.com
+domain:dc.oppomobile.com
+domain:ads.heytapmobi.com
