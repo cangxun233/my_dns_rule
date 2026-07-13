@@ -1,10 +1,13 @@
 domain:chnsrv.com
 domain:chmsrv.com
 domain:optvz.com
+domain:snaptrckr.fun
 domain:google-analytics.com
-
+full:push-ads-cn.heytapmobi.com
+full:dc-dragate-cn.heytapmobi.com
+full:obus-conf-cn.heytapmobi.com
 keyword:dragate
 keyword:obus-
+domain:ads.heytapmobi.com
 domain:dc.heytapmobi.com
 domain:dc.oppomobile.com
-domain:ads.heytapmobi.com
